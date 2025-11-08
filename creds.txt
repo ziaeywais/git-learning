@@ -1,2 +1,0 @@
-username= wais
-password=something
